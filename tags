@@ -1,0 +1,87 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/1208e45/
+0	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	s	array:outputs.1164083562126845933
+0	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	s	array:outputs.4476964694761187371
+0	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	s	array:outputs.5772339338384066322
+0	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	o	array:local
+0	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	o	array:local
+0	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	a	array:deps
+0	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	n	array:deps.0
+0	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	o	array:local
+1	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	s	array:outputs.1164083562126845933
+1	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	s	array:outputs.4476964694761187371
+1	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	s	array:outputs.5772339338384066322
+1	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	s	array:deps.0
+1164083562126845933	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	a	object:outputs
+2	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	b	array:deps.0
+3	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	n	array:deps.0
+4476964694761187371	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	a	object:outputs
+5772339338384066322	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	a	object:outputs
+CFBundleDevelopmentRegion	target/debug/deps/os_cond-1e160215aecc1498.dSYM/Contents/Info.plist	/^		<key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	target/debug/deps/win-fe6b128c1669cc13.dSYM/Contents/Info.plist	/^		<key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	target/debug/win.dSYM/Contents/Info.plist	/^		<key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleIdentifier	target/debug/deps/os_cond-1e160215aecc1498.dSYM/Contents/Info.plist	/^		<key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	target/debug/deps/win-fe6b128c1669cc13.dSYM/Contents/Info.plist	/^		<key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	target/debug/win.dSYM/Contents/Info.plist	/^		<key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	target/debug/deps/os_cond-1e160215aecc1498.dSYM/Contents/Info.plist	/^		<key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	target/debug/deps/win-fe6b128c1669cc13.dSYM/Contents/Info.plist	/^		<key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	target/debug/win.dSYM/Contents/Info.plist	/^		<key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundlePackageType	target/debug/deps/os_cond-1e160215aecc1498.dSYM/Contents/Info.plist	/^		<key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	target/debug/deps/win-fe6b128c1669cc13.dSYM/Contents/Info.plist	/^		<key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	target/debug/win.dSYM/Contents/Info.plist	/^		<key>CFBundlePackageType<\/key>$/;"	k
+CFBundleShortVersionString	target/debug/deps/os_cond-1e160215aecc1498.dSYM/Contents/Info.plist	/^		<key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleShortVersionString	target/debug/deps/win-fe6b128c1669cc13.dSYM/Contents/Info.plist	/^		<key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleShortVersionString	target/debug/win.dSYM/Contents/Info.plist	/^		<key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleSignature	target/debug/deps/os_cond-1e160215aecc1498.dSYM/Contents/Info.plist	/^		<key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	target/debug/deps/win-fe6b128c1669cc13.dSYM/Contents/Info.plist	/^		<key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	target/debug/win.dSYM/Contents/Info.plist	/^		<key>CFBundleSignature<\/key>$/;"	k
+CFBundleVersion	target/debug/deps/os_cond-1e160215aecc1498.dSYM/Contents/Info.plist	/^		<key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	target/debug/deps/win-fe6b128c1669cc13.dSYM/Contents/Info.plist	/^		<key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	target/debug/win.dSYM/Contents/Info.plist	/^		<key>CFBundleVersion<\/key>$/;"	k
+CheckDepInfo	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	o	object:local.0
+dep_info	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	s	object:local.0.CheckDepInfo
+deps	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	a
+deps	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	a
+deps	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	a
+features	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	s
+features	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	s
+features	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	s
+it_works	src/lib.rs	/^    fn it_works() {$/;"	f	module:tests
+local	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	a
+local	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	a
+local	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	a
+main	src/bin/lin.rs	/^pub fn main() {}$/;"	f
+main	src/bin/osx.rs	/^pub fn main() {}$/;"	f
+main	src/bin/win.rs	/^pub fn main() {}$/;"	f
+metadata	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	n
+metadata	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	n
+metadata	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	n
+os_cond	README.md	/^# os_cond$/;"	c
+outputs	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	o
+path	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	n
+path	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	n
+path	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	n
+profile	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	n
+profile	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	n
+profile	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	n
+rustc	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	n
+rustc	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	n
+rustc	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	n
+rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	n
+rustflags	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	a
+rustflags	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	a
+rustflags	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	a
+successes	target/.rustc_info.json	/^{"rustc_fingerprint":6883949162471712111,"outputs":{"5772339338384066322":["___\\n",""],"4476964/;"	o
+target	target/debug/.fingerprint/os_cond-1e160215aecc1498/test-lib-os_cond-1e160215aecc1498.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":824854565124/;"	n
+target	target/debug/.fingerprint/os_cond-7b2816c12c4618ea/lib-os_cond-7b2816c12c4618ea.json	/^{"rustc":1968558166575390653,"features":"[]","target":7518045570381449422,"profile":149966557813/;"	n
+target	target/debug/.fingerprint/os_cond-fe6b128c1669cc13/bin-win-fe6b128c1669cc13.json	/^{"rustc":1968558166575390653,"features":"[]","target":10589349812290543439,"profile":14996655781/;"	n
+tests	src/lib.rs	/^mod tests {$/;"	n

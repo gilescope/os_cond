@@ -1,0 +1,21 @@
+[package]
+name = "os_cond"
+version = "0.1.0"
+authors = ["Giles Cope <gilescope@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/gilescope/os_cond.git"
+description = "Prefix to only run a command on a particular operating system."
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[profile.dev]
+panic = "abort"
+opt-level = 'z'
+[profile.release]
+panic = "abort"
+opt-level = 'z'
+lto = true
+codegen-units = 1
+
+[dependencies]
+#libc = "0.2"
+heapless = "0.5.4"
