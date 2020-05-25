@@ -282,7 +282,7 @@ fn start<T: Termination + 'static>(main: fn() -> T, _: isize, _: *const *const u
 pub fn main(
 //    _argc: isize, _argv: *const *const u8
 ) -> () {//-> isize
-    let exit_code: i32;
+    let exit_code: isize;
 
     // // Since we are passing a C string the final null character is mandatory.
    // #[cfg(not(target_os = "linux"))]
@@ -310,7 +310,7 @@ pub fn main(
     //     args[args_free] = '\0' as u8;
     //     exit_code = libc::system(args.as_ptr() as *const i8);
     // }
-    exit_code as isize
+//    exit_code as isize
 }
 
 // #[panic_handler]
