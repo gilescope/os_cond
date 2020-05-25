@@ -85,6 +85,12 @@ trait Termination {
     fn report(self) -> i32;
 }
 
+#[cfg(target_os = "macos")]
+#[link(name="System")]
+extern "C" {
+    pub fn printf(format: *const i32, ...) -> i8;
+}
+
 #[lang = "slice"]
 impl<T> [T] {
     #[allow(unused_attributes)]
